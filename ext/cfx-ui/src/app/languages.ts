@@ -37,7 +37,7 @@ const languages = [
     },
 	{
 		name: 'sk',
-		displayName: 'Slovensky'
+		displayName: 'Slovenčina'
 	},
 ];
 
